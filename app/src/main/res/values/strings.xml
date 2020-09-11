@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Hechat</string>
+    <string name="title_activity_menu_slidectivity">MenuSlidectivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_home">Hechat</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="edit_profile">Editar perfil</string>
+    <string name="agregar_imagen">Agregar imagénes</string>
+    <string name="imagen_logo">Imagen logo</string>
+    <string name="mail">e-mail</string>
+    <string name="password">password</string>
+    <string name="login">LOGIN</string>
+    <string name="registrar">REGISTRAR</string>
+
+
+    <string name="home_second">Home Second</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_slide_menu">SlideMenu</string>
+    <string name="todo">TODO</string>
+
+</resources>
